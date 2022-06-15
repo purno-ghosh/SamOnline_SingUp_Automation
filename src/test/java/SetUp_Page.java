@@ -23,7 +23,7 @@ public class SetUp_Page {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
-
+//purno ghosh edit
     @AfterMethod
     public void ScreenShot(ITestResult result) throws IOException {
         if (ITestResult.FAILURE == result.getStatus()) {
