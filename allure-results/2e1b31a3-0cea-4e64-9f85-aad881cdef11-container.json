@@ -1,0 +1,1 @@
+{"uuid":"2e1b31a3-0cea-4e64-9f85-aad881cdef11","name":"SamOnline_SingUp_Automation","children":["8b1915ab-e0f9-444b-8f28-8c79076895e9"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1655191075678,"stop":1655191078036}],"afters":[],"start":1655191075663,"stop":1655191130651}

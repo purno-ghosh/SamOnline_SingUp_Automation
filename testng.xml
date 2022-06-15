@@ -1,0 +1,9 @@
+<suite thread-count="1" verbose="1" name="E-commerce portal createAccount">
+
+    <test name="Samonline portal Singup">
+        <classes>
+            <class name="SingUP_Runner"/>
+        </classes>
+    </test>
+
+</suite>
