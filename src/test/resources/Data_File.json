@@ -1,21 +1,25 @@
 [
   {
-    "username":"purnotest10",
-    "email":"purnotest10@gmail.com",
+    "username":"purnotest41",
+    "email":"purnotest41@gmail.com",
     "password":"ppppppppp",
-    "number":"01700000010"
+    "number":"01700000041",
+    "age": "20",
+    "institution":"Savar"
   },
   {
-    "username":"purnotest8",
-    "email":"purnotest8@gmail.com",
-    "password":"pppppppp",
-    "number":"01700000011"
+    "username":"purnotest42",
+    "email":"purnotest42@gmail.com",
+    "password":"ppppppppp",
+    "number":"01700000042",
+    "age": "25",
+    "institution":"Dhaka"
   },
 
   {
-    "username":"purnotest9",
-    "email":"purnotest9@gmail.com",
-    "password":"pppppppp",
-    "number":"01700000006"
+    "username":"purnotest39",
+    "email":"purnotest31@gmail.com",
+    "password":"ppppppppp",
+    "number":"01700000039"
   }
 ]

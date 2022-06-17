@@ -1,0 +1,1 @@
+{"uuid":"60cb2313-07e3-4c03-9f46-2973eedb9b22","name":"Samonline portal Login","children":["2c7b660e-a9c7-46c5-8488-df1d682f6f19"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1655461333909,"stop":1655461336342}],"afters":[],"start":1655461333892,"stop":1655461355428}
