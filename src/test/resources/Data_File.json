@@ -1,17 +1,17 @@
 [
   {
-    "username":"purnotest45",
-    "email":"purnotest45@gmail.com",
-    "password":"ppppppppp",
-    "number":"01700000045",
-    "age": "20",
-    "institution":"Savar"
-  },
-  {
     "username":"purnotest46",
     "email":"purnotest46@gmail.com",
     "password":"ppppppppp",
     "number":"01700000046",
+    "age": "20",
+    "institution":"Savar"
+  },
+  {
+    "username":"purnotest47",
+    "email":"purnotest47@gmail.com",
+    "password":"ppppppppp",
+    "number":"01700000047",
     "age": "25",
     "institution":"Dhaka"
   },
