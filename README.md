@@ -10,7 +10,7 @@ the website link is https://sam.rultest2.com/
 - IDE: IntelIJ
 - Build tool: Gradle
 - Language: Java
-- Test_Runner: TestNG Test Runner
+- Test_Runner: TestNG.xml
 
 ## Prerequisite:
 1. Need to install jdk 1.8
