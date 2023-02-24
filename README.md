@@ -29,3 +29,5 @@ gradle clean test
 ```
 ## Report View & Screen Rec.
 ![fulltest](https://user-images.githubusercontent.com/93866513/174331040-69e34f31-3ca0-42cf-a7cb-32c0b73bf8cb.png)
+
+![rul error](https://user-images.githubusercontent.com/93866513/221182105-582b32eb-c177-4648-a92c-0dc13efe32dc.jpg)
